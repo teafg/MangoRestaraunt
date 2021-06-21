@@ -666,7 +666,6 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\ru\Micr
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.csproj.AssemblyReference.cache
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.AssemblyInfoInputs.cache
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.AssemblyInfo.cs
