@@ -681,3 +681,4 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.W
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\ref\Mango.Web.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.pdb
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.genruntimeconfig.cache
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.csproj.AssemblyReference.cache
