@@ -30,7 +30,7 @@ namespace Mango.Web.Services
         {
             return await this.SendAsync<T>(new ApiRequest()
             {
-                ApiType = SD.ApiType.Post,
+                ApiType = SD.ApiType.Get,
                 Url = SD.ProductAPIBase + "/api/products/" + id,
                 AccessToken = ""
             });
