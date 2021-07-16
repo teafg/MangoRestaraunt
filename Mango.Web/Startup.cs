@@ -41,7 +41,7 @@ namespace Mango.Web
                 c.ExpireTimeSpan = TimeSpan.FromMinutes(10);
             }).AddOpenIdConnect("oidc", options =>
             {
-                options.Authority = Configuration["ServiceUrls: IdentityAPI"];
+                options.Authority = Configuration["ServiceUrls:IdentityAPI"];
                 options.GetClaimsFromUserInfoEndpoint = true;
                 options.ClientId = "mango";
                 options.ClientSecret = "secret";
@@ -69,7 +69,6 @@ namespace Mango.Web
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
