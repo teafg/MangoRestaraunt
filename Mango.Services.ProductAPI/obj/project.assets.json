@@ -2293,11 +2293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
       "projectName": "Mango.Services.ProductAPI",
-      "projectPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\e7897bt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Services.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Services.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

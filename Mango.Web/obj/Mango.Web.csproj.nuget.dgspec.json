@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj": {}
+    "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj": {
+    "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj",
+        "projectUniqueName": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj",
+        "projectPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Web\\Mango.Web.csproj",
         "packagesPath": "C:\\Users\\e7897bt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaraunt\\Mango.Web\\obj\\",
+        "outputPath": "C:\\Users\\e7897bt\\source\\repos\\MangoRestaurant\\MangoRestaraunt\\Mango.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.0-preview.4.21253.5, )"
@@ -49,6 +57,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
             }
           },
           "imports": [
