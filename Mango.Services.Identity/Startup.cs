@@ -10,8 +10,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Duende.IdentityServer.Services;
 using Mango.Services.Identity.initializer;
 using Mango.Services.Identity.Models;
+using Mango.Services.Identity.Services;
 using Microsoft.AspNetCore.Identity;
 
 namespace Mango.Services.Identity
@@ -45,7 +47,7 @@ namespace Mango.Services.Identity
                 .AddAspNetIdentity<ApplicationUser>();
 
             services.AddScoped<IDbInitializer, DbInitializer>();
-
+            services.AddScoped<IProfileService, ProfileService>();
             // dev only
             builder.AddDeveloperSigningCredential();
 

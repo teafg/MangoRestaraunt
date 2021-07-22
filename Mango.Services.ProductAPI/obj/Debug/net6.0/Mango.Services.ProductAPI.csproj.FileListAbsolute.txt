@@ -125,3 +125,4 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Services.ProductAPI\obj\Debu
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Services.ProductAPI\obj\Debug\net6.0\ref\Mango.Services.ProductAPI.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.pdb
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.genruntimeconfig.cache
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Services.ProductAPI\obj\Debug\net6.0\Mango.Services.ProductAPI.csproj.AssemblyReference.cache
