@@ -14,6 +14,10 @@ build_property.MSBuildProjectDirectory = C:\Users\e7897bt\source\repos\MangoRest
 build_property._RazorSourceGeneratorDebug = 
 build_property._RazorSourceGeneratorLog = 
 
+[c:/Users/e7897bt/source/repos/MangoRestaraunt/Mango.Web/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/e7897bt/source/repos/MangoRestaraunt/Mango.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

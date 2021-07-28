@@ -632,6 +632,7 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\refs\Sy
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -639,7 +640,14 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microso
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\System.Security.Permissions.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -681,12 +689,3 @@ C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.W
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\ref\Mango.Web.dll
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.pdb
 C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.genruntimeconfig.cache
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\obj\Debug\net6.0\Mango.Web.csproj.AssemblyReference.cache
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\e7897bt\source\repos\MangoRestaraunt\Mango.Web\bin\Debug\net6.0\System.Security.Permissions.dll
